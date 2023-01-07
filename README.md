@@ -11,19 +11,19 @@ This repository was created for a custom JupyterLite instance. JupyterLite is a 
 JupyterLite is implemented in Python and can be installed using the pip package manager. It can be run from the command line or as a standalone web server, making it easy to use in a variety of different environments.
 
 
-##How it's set up.
+## How it's set up.
 To be able to run a JupyterLite instance from my repository, I installed the github actions app on my repository. I then created a new workflow file in the '.github/workflows'
 directory of the repository, with specified code to be able to run the JupyterLite instance. When new changes are pushed to the repository, Github actions will automatically 
 run the workflow and start a JupyterLite instance. You can access the instance in the link above.
 
-#Notebooks
+# Notebooks
 
-##Computation
+## Computation
 The computation notebook contains a showcase of polynomial versus exponential growth rates illustrated using pyplot, and illustrating Big-O notation.
 It also contains a solution for a python implemented turing machine that does not accept 1's in its input.
 
-##Fourier Transform
+## Fourier Transform
 This notebook contains an explanation of what a fourier transform is.
 
-##Quantum Computing
+## Quantum Computing
 This notebook discusses quantum computing, and examples of its application using Qiskit to display quantum circuits.
