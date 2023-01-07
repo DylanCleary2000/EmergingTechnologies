@@ -20,10 +20,15 @@ run the workflow and start a JupyterLite instance. You can access the instance i
 
 ## Computation
 The computation notebook contains a showcase of polynomial versus exponential growth rates illustrated using pyplot, and illustrating Big-O notation.
-It also contains a solution for a python implemented turing machine that does not accept 1's in its input.
+It discusses basic concepts of computation.
+It also contains a solution for a python implemented turing machine that does not accept 1's in its input, with an explanation of how the turing machine works.
 
 ## Fourier Transform
-This notebook contains an explanation of what a fourier transform is.
+This notebook introduces the reader to the concept of the fourier transform, as well as examples of its use, techniques for implementing it in code, and its 
+applications across various scientific fields. It also has an example signal and the fast fourier transforms effect on it.
 
 ## Quantum Computing
-This notebook discusses quantum computing, and examples of its application using Qiskit to display quantum circuits.
+This notebook discusses quantum computing,it's background, history and development.
+It shows quantum circuit design using qiskit to illustrate.
+It also discusses quantum computings applications and it's potential impact.
+
